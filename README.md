@@ -25,11 +25,13 @@ Among the boroughs, which one has the highest number of assault arrests across v
 
 Importance:
 ​​Understanding the distribution of assault arrests across New York City's boroughs and various age groups, and subsequently identifying the racial demographic with the highest number of arrests within the most affected borough and age group, is of paramount importance for effective law enforcement and community well-being. This question enables a nuanced analysis that goes beyond mere crime statistics. By pinpointing the borough with the highest assault arrests, law enforcement can strategically allocate resources to address specific geographic hotspots. By looking at different age groups, we can create programs that are better suited to the needs of specific communities. Additionally, finding out which racial group has the highest number of arrests helps us have conversations about whether there might be unfair treatment happening and how we can make sure policing is fair for everyone. In essence, this question addresses not only the where and when of assault arrests but also delves into the who, providing insights crucial for fostering safer communities and promoting fairness within the criminal justice system.
-<img width="623" alt="Screenshot 2023-12-04 at 1 05 32 PM" src="https://github.com/mirLakhani/NYDPcrime/assets/148798235/911da26e-3dbb-43eb-b816-767982faf67e">
+<img width="621" alt="Screenshot 2023-12-04 at 1 27 05 PM" src="https://github.com/mirLakhani/NYDPcrime/assets/148798235/c34cb241-5cc7-45d8-a298-bd7523818575">
+
 
 
 Upon completing our analysis using Tableau, the data reveals that Brooklyn has the highest count of assault arrests. This insight is visually represented through the utilization of a stacked bar graph. A more detailed look of Brooklyn in particular reveals that the age range with the greatest number of assault arrests is between 25 and 44 years old, totaling 3,915 arrests.
-<img width="618" alt="Screenshot 2023-12-04 at 1 05 47 PM" src="https://github.com/mirLakhani/NYDPcrime/assets/148798235/48ff3e7e-f6fb-4e28-902e-a01661acb46a">
+<img width="624" alt="Screenshot 2023-12-04 at 1 27 19 PM" src="https://github.com/mirLakhani/NYDPcrime/assets/148798235/5f1ba530-c35c-4e74-95ba-1a1d3257551a">
+
 
 
 In order to further our investigation, we looked at the racial distribution of arrests in Brooklyn for those aged 25 to 44. This extra layer of information is helpful because it offers a more complex picture of the demographics associated with these arrests. This helps identify any potential disparities or patterns that can guide focused intervention efforts and advance equity in law enforcement procedures.

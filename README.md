@@ -4,7 +4,7 @@ Our dataset, sourced from the US Data.gov website, encompasses all NYPD arrest r
 39217 Group 7
 
 # Team Members:
-Dylan McMorrow [@DylanMcMorrow ](https://github.com/dylanmcmorrow5/MIST4610GroupProject1/blob/main/README.md](https://github.com/dylanmcmorrow5/MIST4610GroupProject2.git)
+Dylan McMorrow (https://github.com/dylanmcmorrow5/MIST4610GroupProject1/blob/main/README.md](https://github.com/dylanmcmorrow5/MIST4610GroupProject2.git)
 
 Aafreen Anjum [@AafreenAnjum](https://github.com/aanjum2003/healthcare/blob/main/README%20(1).md)
 

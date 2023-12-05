@@ -4,11 +4,15 @@ Our dataset, sourced from the US Data.gov website, encompasses all NYPD arrest r
 39217 Group 7
 
 # Team Members:
-Dylan McMorrow - @Dylan McMorrow 
-Aafreen Anjum - @AafreenAnjum
-Jack Drummond - 
-Ishi Gupta - 
-Miral Lakhani - @Miral Lakhani
+Dylan McMorrow [@DylanMcMorrow ](https://github.com/dylanmcmorrow5/MIST4610GroupProject1/blob/main/README.md](https://github.com/dylanmcmorrow5/MIST4610GroupProject2.git)
+
+Aafreen Anjum [@AafreenAnjum](https://github.com/aanjum2003/healthcare/blob/main/README%20(1).md)
+
+Jack Drummond [@JackDrummond](https://github.com/jdrum7/MISTproject)
+
+Ishi Gupta [@IshiGupta](https://github.com/ishigupta24/healthcare/blob/main/README%20(1).md)
+
+Miral Lakhani [@MiralLakhani](https://github.com/mirLakhani/healthcare1) 
 
 # Description of Dataset:
 Our dataset shows all of the NYPD arrest records in the 5 boroughs of New York City for the current year (2023). We obtained our dataset from US Data.gov website (https://catalog.data.gov/dataset/nypd-arrest-data-year-to-date). Each record represents an arrest affected by the NYPD and includes information about the type, location, and time of enforcement. Additionally, descriptions for suspect demographics are also included. 
